@@ -6,9 +6,8 @@ Programmer who loves anime and photography
 
 ## :computer: Work with
 
-- :japan: [CircleCI](https://circleci.com/) Senior Support Engineer
+- :japan: [CircleCI](https://circleci.com/) Staff Support Engineer
 - :japan: [YassLab Inc.](https://yasslab.jp/) Developer - Serving closed learning video hosting service.
-- :innocent: [AnimeOutreach](https://animeoutreach.org) Web Manager - Improving community productivity with automation.
 
 ## :link: I'm Around
 
